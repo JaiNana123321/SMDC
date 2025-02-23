@@ -1,62 +1,92 @@
 [
-  {
-    "company": "Apple",
-    "hype_score": 8.5,
-    "valuation": 7.2,
-    "comment": "Positive sentiment due to new product launches"
-  },
-  {
-    "company": "Google",
-    "hype_score": 7.8,
-    "valuation": 8.1,
-    "comment": "Strong market position and diversified revenue streams"
-  },
-  {
-    "company": "Microsoft",
-    "hype_score": 6.9,
-    "valuation": 7.5,
-    "comment": "Steady growth in cloud computing and enterprise software"
-  },
-  {
-    "company": "Amazon",
-    "hype_score": 8.2,
-    "valuation": 7.9,
-    "comment": "Dominant player in e-commerce and cloud services"
-  },
-  {
-    "company": "Facebook",
-    "hype_score": 6.5,
-    "valuation": 6.8,
-    "comment": "Concerns over privacy and regulatory challenges"
-  },
-  {
-    "company": "Tesla",
-    "hype_score": 9.1,
-    "valuation": 8.7,
-    "comment": "High growth potential in electric vehicles and renewable energy"
-  },
-  {
-    "company": "Nvidia",
-    "hype_score": 7.6,
-    "valuation": 8.3,
-    "comment": "Strong demand for GPUs in gaming and AI applications"
-  },
-  {
-    "company": "Netflix",
-    "hype_score": 7.2,
-    "valuation": 6.4,
-    "comment": "Intense competition in the streaming market"
-  },
-  {
-    "company": "Uber",
-    "hype_score": 5.8,
-    "valuation": 5.2,
-    "comment": "Challenges in achieving profitability and regulatory hurdles"
-  },
-  {
-    "company": "Airbnb",
-    "hype_score": 6.7,
-    "valuation": 6.1,
-    "comment": "Recovery in travel industry post-pandemic"
-  }
+    {
+        "company": "Tesla",
+        "ticker": "TSLA",
+        "hype_score": 9.1,
+        "variance": 8.7
+    },
+    {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "hype_score": 7.6,
+        "variance": 8.3
+    },
+    {
+        "company": "Netflix",
+        "ticker": "NFLX",
+        "hype_score": 7.2,
+        "variance": 6.4
+    },
+    {
+        "company": "Uber Technologies",
+        "ticker": "UBER",
+        "hype_score": 5.8,
+        "variance": 5.2
+    },
+    {
+        "company": "Airbnb",
+        "ticker": "ABNB",
+        "hype_score": 6.7,
+        "variance": 6.1
+    },
+    {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "hype_score": 8.4,
+        "variance": 7.8
+    },
+    {
+        "company": "Amazon.com",
+        "ticker": "AMZN",
+        "hype_score": 8.9,
+        "variance": 9.2
+    },
+    {
+        "company": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "hype_score": 8.8,
+        "variance": 9.4
+    },
+    {
+        "company": "Apple Inc.",
+        "ticker": "AAPL",
+        "hype_score": 9.3,
+        "variance": 9.6
+    },
+    {
+        "company": "Alphabet Inc.",
+        "ticker": "GOOGL",
+        "hype_score": 8.7,
+        "variance": 9.1
+    },
+    {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "hype_score": 7.8,
+        "variance": 6.5
+    },
+    {
+        "company": "Snowflake Inc.",
+        "ticker": "SNOW",
+        "hype_score": 7.4,
+        "variance": 6.8
+    },
+    {
+        "company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "hype_score": 7.9,
+        "variance": 7.6
+    },
+    {
+        "company": "Roblox Corporation",
+        "ticker": "RBLX",
+        "hype_score": 6.9,
+        "variance": 5.8
+    },
+    {
+        "company": "Cloudflare",
+        "ticker": "NET",
+        "hype_score": 7.1,
+        "variance": 6.7
+    }
 ]
