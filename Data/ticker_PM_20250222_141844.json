@@ -1,0 +1,20 @@
+{
+  "ticker": "PM",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "mdye5bv",
+      "post_id": "1iucp16",
+      "post_title": "NVDA yolo",
+      "comment_body": "Amazing that people are willing to throw away money like this, take out what you have left and just venmo me tomorrow morning. Send me a pm.",
+      "score": 2,
+      "created_utc": 1740124841.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 2,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}

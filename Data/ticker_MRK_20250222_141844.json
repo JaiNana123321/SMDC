@@ -1,0 +1,20 @@
+{
+  "ticker": "MRK",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "mdy3bbx",
+      "post_id": "1iu8z2i",
+      "post_title": "5000 shares in INTC",
+      "comment_body": "I dumped mine into $MRK",
+      "score": 1,
+      "created_utc": 1740118943.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 1,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}

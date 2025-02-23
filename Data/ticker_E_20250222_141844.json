@@ -1,0 +1,47 @@
+{
+  "ticker": "E",
+  "posts": [
+    {
+      "post_id": "1iv4iln",
+      "title": "PLTR RIDE WAS GOOD, BUT...",
+      "selftext": "It was a great ride with you all, but I feel the train is going to stop.  Hope to hop back on at a more reasonable p/e.",
+      "score": 9,
+      "upvote_ratio": 0.7,
+      "created_utc": 1740179156.0,
+      "mention_location": "selftext"
+    },
+    {
+      "post_id": "1iuxgtn",
+      "title": "Jensen Falldom For Next Week Earning",
+      "selftext": "TLDR: I suck in trading, reverse me and buy Nvidia calls for free money.\n\nOkay okay, I have just got a -98% decrease in my XP puts, but hey I just asked my wife's boyfriend for a little bit more money and some Wendy's payout. Let's start how this NVIDIA will fall.\n\nCurrent situation:\n\n* Jensen's kingdom got kicked out of 140 club, and back to 139 (at the time I write this shit DD), P/E 55.14 (compared to 55.96 for Industrial average) and will have another earning call next week. \n* President Trump are planning to tax 25% tariff on chips outside of US, a bubble for Nvidia manufacturing\n* Yes yes I know 5000 series releases got sold out in seconds, but it was released on Jan 30, so it's next quarter so it doesn't do shit this quarter yet.\n\nWhy you should buy put?\n\n* Insider trading shows that there is a massive sell off, obviously it doesn't say anything much.\n\n[Insider Trading](https://preview.redd.it/t4w62gqc2jke1.png?width=1038&format=png&auto=webp&s=ad922a3c0eb97ce48039d912bb1cc677eeff5db9)\n\n* Nvidia tends to sensitive to news, especially world new and fluctuated the most when it comes to news.\n* Nvidia main manufacturing is TSMC, which got unlove for our beloved President Trump (https://www.mk.co.kr/en/business/11243062)\n* China (in general) wants to compete with chip manufacturing especially with Taiwan (https://www.taipeitimes.com/News/biz/archives/2025/02/11/2003831653)\n* Recently, Google and Microsoft starts to develop their own chips for their AI, so we are heading to era of independent chip-dependent from Nvidia\n* Sure sure, \"yOu sTill nEEd to bUy nVidIa Chips\".From previous earnings, there is a 17% increase in Data Center revenue Q4 2024, a 16% increase in Data Center revenue Q3 2024, and 23% increase in Data Center revenue Q2 2024, and 27% increase in Q1 2024. There is a slow down increase and with a nearest quantum chips release from IQVN, Google, Microsoft, I anticipate that this quarter can still have an increase but not impressive\n* So why I think Nvidia chips are stagnant? The investment of research from their previous earnings clearly shows that they don't want to heavily invest in research as much as before --> Chips independent era gonna be coming.\n\nWhy you should buy calls?\n\n* Because I buy puts\n\nPosition:\n\n[Position](https://preview.redd.it/5yp493fq8jke1.png?width=1372&format=png&auto=webp&s=042b36e8d27ba302fbd34fa70c73ee90ef1e3462)\n\nI buy on August because there are around 150k investment in the same investment and hey I am regarded.   \n  \nI eat crayon to make this dd so NFA but hey I'm gey bear.   \n  \n",
+      "score": 0,
+      "upvote_ratio": 0.42,
+      "created_utc": 1740161428.0,
+      "mention_location": "selftext"
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": "me2t8dr",
+      "post_id": "1iv4iln",
+      "post_title": "PLTR RIDE WAS GOOD, BUT...",
+      "comment_body": "Agree. With such a high p/e, there will be a lot of pain with a broad drop",
+      "score": 6,
+      "created_utc": 1740179958.0
+    },
+    {
+      "comment_id": "me2tov0",
+      "post_id": "1iv4iln",
+      "post_title": "PLTR RIDE WAS GOOD, BUT...",
+      "comment_body": "At a p/e >550, I think it will be a while to get to these levels again. Personal risk tolerance and seeing it fail a lot of mini intraday pops this week. Will sell monday",
+      "score": 4,
+      "created_utc": 1740180108.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 4,
+    "total_upvotes": 19,
+    "post_mentions": 2,
+    "comment_mentions": 2
+  }
+}

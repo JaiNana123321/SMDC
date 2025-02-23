@@ -1,0 +1,55 @@
+{
+  "ticker": "TSM",
+  "posts": [
+    {
+      "post_id": "1iuxgtn",
+      "title": "Jensen Falldom For Next Week Earning",
+      "selftext": "TLDR: I suck in trading, reverse me and buy Nvidia calls for free money.\n\nOkay okay, I have just got a -98% decrease in my XP puts, but hey I just asked my wife's boyfriend for a little bit more money and some Wendy's payout. Let's start how this NVIDIA will fall.\n\nCurrent situation:\n\n* Jensen's kingdom got kicked out of 140 club, and back to 139 (at the time I write this shit DD), P/E 55.14 (compared to 55.96 for Industrial average) and will have another earning call next week. \n* President Trump are planning to tax 25% tariff on chips outside of US, a bubble for Nvidia manufacturing\n* Yes yes I know 5000 series releases got sold out in seconds, but it was released on Jan 30, so it's next quarter so it doesn't do shit this quarter yet.\n\nWhy you should buy put?\n\n* Insider trading shows that there is a massive sell off, obviously it doesn't say anything much.\n\n[Insider Trading](https://preview.redd.it/t4w62gqc2jke1.png?width=1038&format=png&auto=webp&s=ad922a3c0eb97ce48039d912bb1cc677eeff5db9)\n\n* Nvidia tends to sensitive to news, especially world new and fluctuated the most when it comes to news.\n* Nvidia main manufacturing is TSMC, which got unlove for our beloved President Trump (https://www.mk.co.kr/en/business/11243062)\n* China (in general) wants to compete with chip manufacturing especially with Taiwan (https://www.taipeitimes.com/News/biz/archives/2025/02/11/2003831653)\n* Recently, Google and Microsoft starts to develop their own chips for their AI, so we are heading to era of independent chip-dependent from Nvidia\n* Sure sure, \"yOu sTill nEEd to bUy nVidIa Chips\".From previous earnings, there is a 17% increase in Data Center revenue Q4 2024, a 16% increase in Data Center revenue Q3 2024, and 23% increase in Data Center revenue Q2 2024, and 27% increase in Q1 2024. There is a slow down increase and with a nearest quantum chips release from IQVN, Google, Microsoft, I anticipate that this quarter can still have an increase but not impressive\n* So why I think Nvidia chips are stagnant? The investment of research from their previous earnings clearly shows that they don't want to heavily invest in research as much as before --> Chips independent era gonna be coming.\n\nWhy you should buy calls?\n\n* Because I buy puts\n\nPosition:\n\n[Position](https://preview.redd.it/5yp493fq8jke1.png?width=1372&format=png&auto=webp&s=042b36e8d27ba302fbd34fa70c73ee90ef1e3462)\n\nI buy on August because there are around 150k investment in the same investment and hey I am regarded.   \n  \nI eat crayon to make this dd so NFA but hey I'm gey bear.   \n  \n",
+      "score": 0,
+      "upvote_ratio": 0.42,
+      "created_utc": 1740161428.0,
+      "mention_location": "selftext"
+    },
+    {
+      "post_id": "1iuu4oi",
+      "title": "Intel's 18A process producing SRAM density on par with TSM's N2 porcess",
+      "selftext": "Link:\n\nhttps://wccftech.com/intel-18a-process-reportedly-comes-with-sram-density-on-par-with-tsmc-n2/",
+      "score": 95,
+      "upvote_ratio": 0.88,
+      "created_utc": 1740153299.0,
+      "mention_location": "title"
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": "me08c9k",
+      "post_id": "1iuu4oi",
+      "post_title": "Intel's 18A process producing SRAM density on par with TSM's N2 porcess",
+      "comment_body": "Intel's 18A might be catching up, but TSM still has the lead in yield and overall fab efficiency. Poor Intel, always playing catch-up.",
+      "score": 9,
+      "created_utc": 1740153335.0
+    },
+    {
+      "comment_id": "me0mxok",
+      "post_id": "1iuu4oi",
+      "post_title": "Intel's 18A process producing SRAM density on par with TSM's N2 porcess",
+      "comment_body": "5 x would be excessive, but its an easy play over the next year.\n\n1. 🥭 announces biggest investment in computer chips in history with Stargate\n2. Vance says those chips will be made in the US\n3. Even TSMCs N2 is slightly behind Intels 18A, but currently TSMC actually only has a N4 plant in the US and is thus 2 process generations or 10 years behind Intel\n4. 🥭 announces atleast 25% tariffs on Chips out of Taiwan, making Intels better chips also cheaper than TSMC\n\nIntel could easily grab up to half of TSMCs market share in Foundry. And that doesnt even count in the 50b they make on their product side each year",
+      "score": 11,
+      "created_utc": 1740157429.0
+    },
+    {
+      "comment_id": "me0npg9",
+      "post_id": "1iuu4oi",
+      "post_title": "Intel's 18A process producing SRAM density on par with TSM's N2 porcess",
+      "comment_body": "5x wouldn't be that much. TSMC is worth 10x what Intel is now. So if Intel even takes half of the market and valuation, then we are at 5x (and that's on chip fab alone, ignoring anything they do in terms of GPUs and working to take market share from NVDIA.... and since NVDIA seems to be messing up with their latest GPUs, there is a chance for ground to be gained there).",
+      "score": 7,
+      "created_utc": 1740157645.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 5,
+    "total_upvotes": 122,
+    "post_mentions": 2,
+    "comment_mentions": 3
+  }
+}

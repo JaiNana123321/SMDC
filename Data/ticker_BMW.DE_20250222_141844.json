@@ -1,0 +1,20 @@
+{
+  "ticker": "BMW.DE",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "me6qj3i",
+      "post_id": "1iuk8th",
+      "post_title": "Nissan surges on report Japan group may seek Tesla investment",
+      "comment_body": "And why is a Tesla more desirable than an EV BMW, etc.",
+      "score": 1,
+      "created_utc": 1740241933.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 1,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}

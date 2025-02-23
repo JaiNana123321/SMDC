@@ -1,0 +1,20 @@
+{
+  "ticker": "ING",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "me1gh4a",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "F ing FINALLY",
+      "score": 2,
+      "created_utc": 1740165629.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 2,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}

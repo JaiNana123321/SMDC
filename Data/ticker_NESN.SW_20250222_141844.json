@@ -1,0 +1,20 @@
+{
+  "ticker": "NESN.SW",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "me6vza7",
+      "post_id": "1ivixub",
+      "post_title": "DD on Intuitive Machines (LUNR) second moon mission next Wednesday (Feb 26th)",
+      "comment_body": "ELIR (explain like I'm regarded) - What is the function of drilling water on the moon? I assume it's not to send back to earth. Is it to establish a moon colony? Nestle to open a moon factory?",
+      "score": 5,
+      "created_utc": 1740243443.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 5,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}

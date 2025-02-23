@@ -1,0 +1,128 @@
+{
+  "ticker": "BABA",
+  "posts": [
+    {
+      "post_id": "1iv7pic",
+      "title": "Alibaba and the 23 thieves",
+      "selftext": "",
+      "score": 123,
+      "upvote_ratio": 0.91,
+      "created_utc": 1740189363.0,
+      "mention_location": "title"
+    },
+    {
+      "post_id": "1iv2bbm",
+      "title": "BABA puts !",
+      "selftext": "",
+      "score": 19,
+      "upvote_ratio": 0.72,
+      "created_utc": 1740173492.0,
+      "mention_location": "title"
+    },
+    {
+      "post_id": "1iuacp0",
+      "title": "Patience paid $BABA",
+      "selftext": "",
+      "score": 45,
+      "upvote_ratio": 0.89,
+      "created_utc": 1740088014.0,
+      "mention_location": "title"
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": "me3z0xh",
+      "post_id": "1iv6zxy",
+      "post_title": "Dow drops 700 points for worst day of 2025 so far on new fears on Trump Tarriffs",
+      "comment_body": "https://preview.redd.it/g5fuk4md9mke1.jpeg?width=1179&format=pjpg&auto=webp&s=83274bc1a9651dd9706fb654a7bd6ce4d852ccb8\n\nMeanwhile BYD, Xiaomi, and Alibaba mooning",
+      "score": 17,
+      "created_utc": 1740197774.0
+    },
+    {
+      "comment_id": "me4trra",
+      "post_id": "1iv6zxy",
+      "post_title": "Dow drops 700 points for worst day of 2025 so far on new fears on Trump Tarriffs",
+      "comment_body": "lol and PDD up 5%. Baba up 6%. You still buying American stocks? That’s old news. Place is going to be in trouble with such competent leaders now",
+      "score": 2,
+      "created_utc": 1740213070.0
+    },
+    {
+      "comment_id": "me2ngaa",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "good luck! I hope you win because I tax loss harvested my BABA at the worst possible time and am trying to get back in",
+      "score": 1,
+      "created_utc": 1740178137.0
+    },
+    {
+      "comment_id": "me67234",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "good luck fellow BABA bear, my puts have been getting fucked. the buying momentum is insane on BABA, the correction should happen soon.. hopefully..",
+      "score": 1,
+      "created_utc": 1740235943.0
+    },
+    {
+      "comment_id": "me2qpuc",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "BABA and AAPL were both holding strong today despite rest of the market sell off but i think they’ll fall when others recover next week. I have AAPL 260P 5/16",
+      "score": 0,
+      "created_utc": 1740179153.0
+    },
+    {
+      "comment_id": "me2er2e",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "Does it say Baba short ? Or long dated puts ? It'll go over $200. But this move ain't gonna last without a correction. Im playing that. Stocks don't go straight up",
+      "score": 2,
+      "created_utc": 1740175527.0
+    },
+    {
+      "comment_id": "me2po9x",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "> Stocks don’t go straight up\n\nExcept BABA did exactly that last time Trump was inaugurated and that shit didn’t cool off until the holidays 🤣🤣🤣",
+      "score": 9,
+      "created_utc": 1740178822.0
+    },
+    {
+      "comment_id": "me4a7ed",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "It was because the stock had dipped to $64 a week before.\n\nI’m not trying to win an argument. I’m trying to help, but hey, your money your choice.\n\nYou say earnings move for PLTR, but this is also an earnings move for BABA.",
+      "score": 1,
+      "created_utc": 1740202652.0
+    },
+    {
+      "comment_id": "me3v5so",
+      "post_id": "1iv2bbm",
+      "post_title": "BABA puts !",
+      "comment_body": "Baba is going over $200 bro. Stock is dirt cheap but they didn't let accumulation phase. It needs to cool down.",
+      "score": 1,
+      "created_utc": 1740196203.0
+    },
+    {
+      "comment_id": "mdw64ed",
+      "post_id": "1iuacp0",
+      "post_title": "Patience paid $BABA",
+      "comment_body": "BABA for the win",
+      "score": 2,
+      "created_utc": 1740093515.0
+    },
+    {
+      "comment_id": "me1e982",
+      "post_id": "1iuacp0",
+      "post_title": "Patience paid $BABA",
+      "comment_body": "Baba ist back on the menu",
+      "score": 1,
+      "created_utc": 1740165000.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 14,
+    "total_upvotes": 224,
+    "post_mentions": 3,
+    "comment_mentions": 11
+  }
+}

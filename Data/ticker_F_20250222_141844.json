@@ -1,0 +1,36 @@
+{
+  "ticker": "F",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "me1gh4a",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "F ing FINALLY",
+      "score": 2,
+      "created_utc": 1740165629.0
+    },
+    {
+      "comment_id": "mduo72i",
+      "post_id": "1iu5zsq",
+      "post_title": "Sell for a loss or hold? RDDT Calls",
+      "comment_body": "Its gonna obviously loop and quantum ai its way to function x of f.",
+      "score": 1,
+      "created_utc": 1740078264.0
+    },
+    {
+      "comment_id": "mduqo60",
+      "post_id": "1iu5ybi",
+      "post_title": "$PLTR will do a 10%+ nosedive tomorrow opening.",
+      "comment_body": "i inversed this. i bought 2 calls 117 for next friday. f you",
+      "score": 34,
+      "created_utc": 1740078946.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 3,
+    "total_upvotes": 37,
+    "post_mentions": 0,
+    "comment_mentions": 3
+  }
+}

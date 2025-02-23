@@ -1,0 +1,71 @@
+{
+  "ticker": "UNH",
+  "posts": [
+    {
+      "post_id": "1iuyiid",
+      "title": "$320p HCA 0DTE 2/21 +27k",
+      "selftext": "Seemed like a no brainer with the UNH news that’s hospitals would get hit. It held on longer and stronger than I thought but a 300% win is a win. \n",
+      "score": 14,
+      "upvote_ratio": 0.85,
+      "created_utc": 1740163984.0,
+      "mention_location": "selftext"
+    },
+    {
+      "post_id": "1iupem5",
+      "title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "selftext": "",
+      "score": 1493,
+      "upvote_ratio": 0.98,
+      "created_utc": 1740139757.0,
+      "mention_location": "title"
+    }
+  ],
+  "comments": [
+    {
+      "comment_id": "mdzi5mo",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "*The investigation was completed when UNH settled Trump's defamation claim for $30m. No charges were recommended but the head of the DOJ remarked everything was very legal and very cool.*",
+      "score": 37,
+      "created_utc": 1740145175.0
+    },
+    {
+      "comment_id": "mdzszc7",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "I wonder if some people knew about this ahead of this being public. UNH shares sold off sharply (-4%) on Tue over seemingly no news and were weak the entire week.",
+      "score": 6,
+      "created_utc": 1740148786.0
+    },
+    {
+      "comment_id": "me539ui",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "Call the hospital and ask them if there is anything they can do, they may just waive the fee. It’s like a game the hospitable and insurers play. Buy yeah fuck UNH. Hope your kid is okay.",
+      "score": 1,
+      "created_utc": 1740218498.0
+    },
+    {
+      "comment_id": "mdzhpb5",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "It's literally a parasite on society. Doesn't care about people's health and only care about their profits. Hope Trump dismantles or fixes UnitedHealth. UnitedHealth is evil af.",
+      "score": 21,
+      "created_utc": 1740145011.0
+    },
+    {
+      "comment_id": "mdzkqnc",
+      "post_id": "1iupem5",
+      "post_title": "DOJ Investigates Medicare Billing Practices at UnitedHealth",
+      "comment_body": "The admin is kind of nutty. \n\nBut they've been harping on how horrible PBMs are. \n\nThis is focused on billing, but UNH does own a PBM. So not sure if it'll be impacted or not. \n\n>“We are paying far too much, because we are paying far more than other countries. We have laws that make it impossible to reduce [drug costs] and we have a thing called a ‘middleman’ … that makes more money than the drug companies, and they don’t do anything except they’re middlemen. We are going to knock out the middleman. \n\nhttps://www.nacds.org/news/in-case-you-missed-it-president-elect-trump-affirms-commitment-to-pbm-reform-in-two-national-media-events-in-one-week/",
+      "score": 31,
+      "created_utc": 1740146076.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 7,
+    "total_upvotes": 1603,
+    "post_mentions": 2,
+    "comment_mentions": 5
+  }
+}

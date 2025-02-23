@@ -1,0 +1,20 @@
+{
+  "ticker": "AVGO",
+  "posts": [],
+  "comments": [
+    {
+      "comment_id": "mdw4pg6",
+      "post_id": "1iuaf06",
+      "post_title": "Thanks Trump and Karp for finally crashing pltr.",
+      "comment_body": "Pltr will be okay.  I had worse drops that recovered in a few weeks.  Broadcom and Nvda periodically get hammered and drop like 25% and go right back up.",
+      "score": 4,
+      "created_utc": 1740093075.0
+    }
+  ],
+  "statistics": {
+    "total_mentions": 1,
+    "total_upvotes": 4,
+    "post_mentions": 0,
+    "comment_mentions": 1
+  }
+}
