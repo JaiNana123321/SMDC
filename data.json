@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Apple",
+    "hype_score": 8.5,
+    "valuation": 7.2,
+    "comment": "Positive sentiment due to new product launches"
+  },
+  {
+    "company": "Google",
+    "hype_score": 7.8,
+    "valuation": 8.1,
+    "comment": "Strong market position and diversified revenue streams"
+  },
+  {
+    "company": "Microsoft",
+    "hype_score": 6.9,
+    "valuation": 7.5,
+    "comment": "Steady growth in cloud computing and enterprise software"
+  },
+  {
+    "company": "Amazon",
+    "hype_score": 8.2,
+    "valuation": 7.9,
+    "comment": "Dominant player in e-commerce and cloud services"
+  },
+  {
+    "company": "Facebook",
+    "hype_score": 6.5,
+    "valuation": 6.8,
+    "comment": "Concerns over privacy and regulatory challenges"
+  },
+  {
+    "company": "Tesla",
+    "hype_score": 9.1,
+    "valuation": 8.7,
+    "comment": "High growth potential in electric vehicles and renewable energy"
+  },
+  {
+    "company": "Nvidia",
+    "hype_score": 7.6,
+    "valuation": 8.3,
+    "comment": "Strong demand for GPUs in gaming and AI applications"
+  },
+  {
+    "company": "Netflix",
+    "hype_score": 7.2,
+    "valuation": 6.4,
+    "comment": "Intense competition in the streaming market"
+  },
+  {
+    "company": "Uber",
+    "hype_score": 5.8,
+    "valuation": 5.2,
+    "comment": "Challenges in achieving profitability and regulatory hurdles"
+  },
+  {
+    "company": "Airbnb",
+    "hype_score": 6.7,
+    "valuation": 6.1,
+    "comment": "Recovery in travel industry post-pandemic"
+  }
+]
